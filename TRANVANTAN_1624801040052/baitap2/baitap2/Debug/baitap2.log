@@ -1,0 +1,4 @@
+﻿  hinhchunhat.cpp
+c:\users\trantan\documents\huongdoituong\baitap1\baitap2\baitap2\hinhchunhat.cpp(20): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+c:\users\trantan\documents\huongdoituong\baitap1\baitap2\baitap2\hinhchunhat.cpp(23): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  baitap2.vcxproj -> C:\Users\TRANTAN\Documents\huongdoituong\baitap1\baitap2\Debug\baitap2.exe
